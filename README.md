@@ -10,3 +10,6 @@
 
 ## Bedford Basin 2D Bathymetry
 <img src="2-D_plotting.png">
+
+## Bedford Basin 3D Bathymetry
+<img src="Basin3DBathy_Font24.png">
