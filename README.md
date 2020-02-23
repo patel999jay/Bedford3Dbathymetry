@@ -53,10 +53,15 @@ variables:
 		:Conventions = "CF-1.6" ;
 		:title = "The GEBCO_2019 Grid - a continuous terrain model for oceans and land at 15 arc-second intervals" ;
 		:institution = "On behalf of the General Bathymetric Chart of the Oceans (GEBCO), the data are held at the British Oceanographic Data Centre (BODC)." ;
-		:source = "The GEBCO_2019 Grid is the latest global bathymetric product released by the General Bathymetric Chart of the Oceans (GEBCO) and has been developed through the Nippon Foundation-GEBCO Seabed 2030 Project. This is a collaborative project between the Nippon Foundation of Japan and GEBCO. The Seabed 2030 Project aims to bring together all available bathymetric data to produce the definitive map of the world ocean floor and make it available to all." ;
-		:history = "Information on the development of the data set and the source data sets included in the grid can be found in the data set documentation available from https://www.gebco.net" ;
+		:source = "The GEBCO_2019 Grid is the latest global bathymetric product released by the General Bathymetric Chart of the 
+		Oceans (GEBCO) and has been developed through the Nippon Foundation-GEBCO Seabed 2030 Project. This is a collaborative 
+		project between the Nippon Foundation of Japan and GEBCO. The Seabed 2030 Project aims to bring together all available 
+		bathymetric data to produce the definitive map of the world ocean floor and make it available to all." ;
+		:history = "Information on the development of the data set and the source data sets included in the grid can be found in 
+		the data set documentation available from https://www.gebco.net" ;
 		:references = "DOI: 10.5285/836f016a-33be-6ddc-e053-6c86abc0788e" ;
-		:comment = "The data in the GEBCO_2019 Grid should not be used for navigation or any purpose relating to safety at sea." ;
+		:comment = "The data in the GEBCO_2019 Grid should not be used for navigation or any purpose relating to safety at 
+		sea.";
 		:node_offset = 1. ;
 data:
 
